@@ -19,5 +19,9 @@ dan juga ada di main.js di bagian highlow
 untuk pemanfaatan ajax fetch ada di folder src/script/index.js
 di bagian getResults
 
+harap memasukkan secara manual karena saya tidak memanfaatkan autocomplete di field box
+jika diisi 'nama kota maka akan muncul'
+contoh surabaya, jakarta, moscow, london, dll
+
 semua sudah responsive
 thanks
