@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
 import "./script/title.js"
 import bg from './images/background.jpg';
+import './images/idcamp-circle.png';
 
 const mybg = new Image(); 
 mybg.src = bg; 
