@@ -20,9 +20,9 @@ function displayResults (weather) {
   let city = document.querySelector('.result .city');
   city.innerText = `${weather.name}, ${weather.sys.country}`;
 
-  let now = new Date();
+  let dates = new Date();
   let date = document.querySelector('.result .date');
-  date.innerText = dateBuilder(now);
+  date.innerText = dateBuilder(dates);
 
   let temp = document.querySelector('.current .temp');
   temp.innerHTML = `${Math.round(weather.main.temp)}<span>°c</span>`;
