@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dicoding-weather">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dicoding-weather.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
